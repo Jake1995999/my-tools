@@ -1,6 +1,12 @@
 {
   "Marshall45": {
     "active": true,
-    "device_id": "daa8206ac5338a07"
+    "device_ids": [
+      "daa8206ac5338a07",
+      "cebdb96d7002acf2",
+      "",
+      "",
+      ""
+    ]
   }
 }
